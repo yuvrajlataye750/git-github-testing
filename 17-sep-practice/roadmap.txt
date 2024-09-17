@@ -1,0 +1,5 @@
+1. Git
+2. Linux
+3. Terraform
+4. AWS
+5. Ansible
