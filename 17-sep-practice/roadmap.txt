@@ -1,0 +1,5 @@
+# This is the simple dailly routine roadmap
+
+1. Git
+2. Linux
+3. Shell script
